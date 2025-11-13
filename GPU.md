@@ -1,10 +1,10 @@
-# 🎮 GPU Instances on Linode
+# 🎮 GPU Instances on Akamai Cloud
 
-Linode offers powerful GPU instances equipped with NVIDIA GPUs to accelerate your AI, machine learning, and compute-intensive workloads. This page provides detailed information about available GPU types, specifications, and use cases.
+Akamai Cloud offers powerful GPU instances equipped with NVIDIA GPUs to accelerate your AI, machine learning, and compute-intensive workloads. This page provides detailed information about available GPU types, specifications, and use cases.
 
 ## GPU Types
 
-Linode currently offers three types of NVIDIA GPUs:
+Akamai Cloud currently offers three types of NVIDIA GPUs:
 
 - **NVIDIA RTX Pro 6000 Blackwell** - High-performance GPU for demanding AI, scientific, and design workloads
 - **NVIDIA RTX 4000 Ada** - Optimized for lightweight AI inference and media workloads
@@ -123,7 +123,7 @@ For detailed benchmarking results and analysis, see the [Benchmarking NVIDIA RTX
 
 ### Media Workloads: VPUs vs GPUs
 
-For media encoding workloads, Linode also offers NETINT Video Processing Units (VPUs) as an alternative to GPUs. According to recent benchmarking:
+For media encoding workloads, Akamai Cloud also offers NETINT Video Processing Units (VPUs) as an alternative to GPUs. According to recent benchmarking:
 
 - **Energy Efficiency**: VPUs demonstrated **4.7x higher energy efficiency** compared to GPUs in demanding media workloads
 - **Performance**: VPUs outperformed GPUs in some high-resolution scenarios (e.g., 19 simultaneous 1080p jobs vs 16 for GPUs)
@@ -136,7 +136,7 @@ For detailed benchmarking results and VMAF quality scores, see the [Benchmarking
 
 ## Resources
 
-- **[Linode GPU Product Page](https://www.linode.com/products/gpu/)** - Overview of GPU offerings and pricing
+- **[Akamai Cloud GPU Product Page](https://www.linode.com/products/gpu/)** - Overview of GPU offerings and pricing
 - **[GPU Compute Instances Documentation](https://techdocs.akamai.com/cloud-computing/docs/gpu-compute-instances)** - Comprehensive technical documentation
 - **[Benchmarking VPUs and GPUs for Media Workloads](https://www.linode.com/blog/compute/benchmarking-vpus-and-gpus-for-media-workloads/)** - Performance comparison and energy efficiency analysis
 - **[Benchmarking NVIDIA RTX Pro 6000 Blackwell](https://www.akamai.com/blog/cloud/benchmarking-nvidia-rtx-pro-6000-blackwell-akamai-cloud)** - Performance benchmarks and analysis
