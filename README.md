@@ -10,7 +10,7 @@ This repository provides links to AI projects, quickstart guides, and useful res
 
 Explore our published AI projects and quickstart guides:
 
-- **[AI Quickstart - Mistral](https://github.com/linode/ai-quickstart-minstral)** - Quickstart guide for deploying Mistral AI models on Akamai Cloud
+- **[AI Quickstart - Mistral](https://github.com/linode/ai-quickstart-mistral)** - Quickstart guide for deploying Mistral AI models on Akamai Cloud
 
 ## 📚 Useful Resources
 
