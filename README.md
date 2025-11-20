@@ -6,11 +6,16 @@ Welcome to the AI documentation repository for Akamai Cloud. This repository ser
 
 This repository provides links to AI projects, quickstart guides, and useful resources to help you get started with AI on Akamai Cloud. Whether you're looking to deploy machine learning models, run inference workloads, or explore AI capabilities, you'll find helpful resources here.
 
-## 🚀 AI Projects
+## 🚀 Quickstart AI Models
 
-Explore our published AI projects and quickstart guides:
+Deploy complete, pre-configured AI inference stacks that include both an OpenAI-compatible Web UI and API endpoint. Each quickstart provides everything you need to get up and running in minutes on Linode GPU instances.
 
 - **[AI Quickstart - Mistral](https://github.com/linode/ai-quickstart-mistral)** - Quickstart guide for deploying Mistral AI models on Akamai Cloud
+- **[AI Quickstart - GPT-OSS-20B LLM](https://github.com/linode/ai-quickstart-gpt-oss)** - Quickstart guide for deploying GPT-OSS-20B LLM on Akamai Cloud
+
+## 🤔 Which Model Should I Run?
+
+Not sure which model is right for your use case? Check out our **[Model Selection Guide](models.md)** to compare Mistral 7B and GPT-OSS-20B, including architecture differences, performance characteristics, and recommendations based on your specific needs.
 
 ## 📚 Useful Resources
 
