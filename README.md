@@ -10,7 +10,7 @@ This repository provides links to AI projects, quickstart guides, and useful res
 
 Deploy complete, pre-configured AI inference stacks that include both an OpenAI-compatible Web UI and API endpoint. Each quickstart provides everything you need to get up and running in minutes on Linode GPU instances.
 
-- **[AI Quickstart - Mistral](https://github.com/linode/ai-quickstart-mistral)** - Quickstart guide for deploying Mistral AI models on Akamai Cloud
+- **[AI Quickstart - Mistral 7B](https://github.com/linode/ai-quickstart-mistral)** - Quickstart guide for deploying Mistral 7B on Akamai Cloud
 - **[AI Quickstart - GPT-OSS-20B LLM](https://github.com/linode/ai-quickstart-gpt-oss)** - Quickstart guide for deploying GPT-OSS-20B LLM on Akamai Cloud
 
 ## 🤔 Which Model Should I Run?
